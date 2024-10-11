@@ -1,9 +1,10 @@
 ## Hi 👋, I'm Vincent
-I'm a passionate IT security and data enthusiast from Germany.
+I'm a IT security and data enthusiast from Germany.
 
+- 🔭 I’m currently working on my master's thesis
+- 🌱 I’m currently learning computer vision
+  
 <!--
-**vnc0/vnc0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

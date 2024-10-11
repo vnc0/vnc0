@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi 👋, I'm Vincent
+I'm a passionate IT security and data enthusiast from Germany.
 
 <!--
 **vnc0/vnc0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

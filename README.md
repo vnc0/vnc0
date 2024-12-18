@@ -2,7 +2,6 @@
 I'm a IT security and data enthusiast from Germany.
 
 - 🔭 I’m currently working on my master's thesis
-- 🌱 I’m currently learning computer vision
   
 <!--
 Here are some ideas to get you started:
